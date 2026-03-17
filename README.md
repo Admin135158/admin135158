@@ -47,16 +47,3 @@
 <div align="center">
 
 ```ascii
-> booting identity...
-> loading modules: [AI] [SECURITY] [SYSTEMS]
-
-[ OK ] mindset: relentless
-[ OK ] environment: hostile
-[ OK ] execution: precise
-
-root@fernando:~# whoami
-ARCHITECT_OF_SYSTEMS
-
-root@fernando:~# status
-BUILDING -  BREAKING -  EVOLVING
-</div> ```
