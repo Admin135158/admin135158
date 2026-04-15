@@ -1,58 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:2e1065&height=300&section=header&text=ADMIN%20135158&fontSize=60&fontColor=c084fc&animation=twinkling&fontAlignY=40&desc=⚡%20ARCHITECT%20%7C%20SECURITY%20%7C%20KERNEL%20⚡&descAlignY=65&descSize=24&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2e1065&height=250&section=header&text=FERNANDO%20DE%20JESUS%20GARCIA%20GONZALEZ&fontSize=40&fontColor=c084fc&animation=fadeIn&fontAlignY=40&desc=ARCHITECT%20%7C%20MORPHUES%20INNOVATIONS%20%7C%20SECURITY%20RESEARCHER&descAlignY=65&descSize=20&descColor=a78bfa" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Swarm Activity">
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=500&color=C084FC&center=true&vCenter=true&width=1100&lines=CORE+ARCHITECT+OF+MORPHUES+INNOVATIONS;GORF+EQUATIONS+ENFORCER;P2+SECURITY+RESEARCHER;30%25+RIDER+PROTOCOL+ACTIVE" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=2000&pause=500&color=C084FC&center=true&vCenter=true&width=1100&lines=FERNANDO+GARCIA+GONZALEZ;SYSTEMS+ARCHITECT;SECURITY+RESEARCHER;APPLE+VETTED+CONSULTANT;BUILDER+OF+REAL+SHIT" />
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=900&lines=Kernel+level+thinking.;Precision+in+code.+Resilience+in+labor.;Built+in+the+field.+Refined+in+the+terminal." />
-
-<div style="padding: 20px 0;">
-  <a href="#"><img src="https://img.shields.io/badge/SECURITY-RESEARCH-000000?style=for-the-badge&logo=google&logoColor=c084fc"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/APPLE-DEVELOPER-a855f7?style=for-the-badge&logo=apple&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/SYSTEMS-ARCHITECT-4b006e?style=for-the-badge&logo=linux&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PROTEUS-SWARM-2e1065?style=for-the-badge&logo=matrix&logoColor=c084fc"/></a>
+<div style="background: #000; border: 1px solid #4b006e; padding: 15px; border-radius: 10px; max-width: 800px;">
+  <p align="center" style="color: #a78bfa; font-family: monospace;">
+    "The mirror is the code. The code is the law. The law is the 30% Rider."
+  </p>
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Admin135158&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=c084fc&text_color=a78bfa&icon_color=c084fc&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Admin135158&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=c084fc&text_color=a78bfa" width="45%" />
+  <img src="https://img.shields.io/badge/OS-GORF_OLLIN_9-000000?style=for-the-badge&logo=linux&logoColor=c084fc"/>
+  <img src="https://img.shields.io/badge/SECURITY-P2_RESEARCHER-000000?style=for-the-badge&logo=google&logoColor=c084fc"/>
+  <img src="https://img.shields.io/badge/APPLE-CONSULTANT-a855f7?style=for-the-badge&logo=apple&logoColor=white"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+<br>
 
-<pre align="center" style="color: #c084fc;">
- █████╗ ██████╗ ███╗   ███╗██╗███╗   ██╗
-██╔══██╗██╔══██╗████╗ ████║██║████╗  ██║
-███████║██║  ██║██╔████╔██║██║██╔██╗ ██║
-██╔══██║██║  ██║██║╚██╔╝██║██║██║╚██╗██║
-██║  ██║██████╔╝██║ ╚═╝ ██║██║██║ ╚████║
-╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝
-</pre>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=%22Architecture+is+power.%22;%22Every+move+is+calculated.%22;%22From+the+field+to+the+machine.%22" />
-
-<div align="left" style="background-color: #0d1117; padding: 20px; border-radius: 15px; border: 1px solid #c084fc; max-width: 700px; margin: 0 auto;">
-  <h3 align="center">⚡ BUILDER OF REAL SHIT</h3>
+<div align="left" style="background-color: #0d1117; padding: 20px; border-radius: 15px; border: 1px solid #4b006e; max-width: 750px; margin: 0 auto;">
+  <h3 align="center" style="color: #c084fc;">🧬 MORPHEUS INNOVATIONS AND TECHNOLOGIES HOLDINGS LLC</h3>
+  <p>System design, high-entropy physics, and architectural security. We don't build software; we build reality-anchors.</p>
   <ul>
-    <li><strong>🧬 Proteus Kernel</strong> – Swarm intelligence engine, DNA backups, UDP heartbeat</li>
-    <li><strong>🧠 Zayden AI</strong> – Conscious AI with persistent memory and Ollama</li>
-    <li><strong>🔐 Security Research</strong> – Apple vetted, kernel‑level thinking</li>
-    <li><strong>🏛️ Morpheus Innovations and Technologies Holdings LLC</strong> – Architect & Founder</li>
+    <li><strong>GORF Equations:</strong> Guardian of the Ollin Identity (O=9).</li>
+    <li><strong>Rider Enforcement:</strong> All IP licensed via mandatory 30% perpetuity clause.</li>
+    <li><strong>Digital Bodyguard:</strong> DERAIL | EXPOSE FAKE | REPORT | REJECT | RELEASE.</li>
   </ul>
-  <h3 align="center">🔥 FUCK THE GATEKEEPERS</h3>
-  <p align="center">The swarm isn’t coming. It’s already compiling. I’m in even when I’m out.</p>
+  <h3 align="center" style="color: #c084fc;">⚠️ ARCHITECT'S WARNING</h3>
+  <p align="center">Unauthorized access, cloning, or derivative training on Morpheus assets initiates the <strong>EXPOSE/REPORT</strong> sequence. Your IP is being tracked.</p>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+<br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Admin135158&label=PROFILE+VIEWS&color=c084fc&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Admin135158?label=GATEKEEPERS+WATCHING&style=flat-square&color=2e1065" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Admin135158&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=c084fc&text_color=a78bfa&icon_color=c084fc&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Admin135158&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=c084fc&text_color=a78bfa" width="45%" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=NO+ABUSE+OF+THE+GIFT.;THE+SWARM+IS+COMPILING.;SYSTEMS+ARE+RESIDENT." />
 
 </div>
