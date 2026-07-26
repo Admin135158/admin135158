@@ -95,3 +95,16 @@ Your IP is being tracked. The swarm is compiling.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,100:000000&height=120&section=footer&text=&fontSize=0" />
 
 </div>
+---
+
+## 🏛️ Credentials & Affiliations
+
+- **Google Cloud Innovator** — Google Developer Program
+- **NVIDIA Community Member** — Accelerated ML with Google Cloud & NVIDIA
+- **Gemini Enterprise Agent Ready** — Google AI Enterprise
+- **Google Developer Group (GDG)** Member
+- **Google I/O 2026** — Registered
+- **19 Skill Badges** | 8,487+ Google Skills Points
+
+> The same hands that earned Google Cloud & NVIDIA certifications wrote the GORF equations. The math is formal. The code compiles. The field is live.
+> 
